@@ -31,3 +31,7 @@ My name is Yousef Samman
                        git push linkOrRemote_Name  Branch_name 
 
 # This text was added in the github website 
+
+
+
+# This section will be used to solve a merging conflict ( Vs Code )
