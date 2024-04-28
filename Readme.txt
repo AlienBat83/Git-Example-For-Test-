@@ -35,3 +35,4 @@ My name is Yousef Samman
 
 
 # This section will be used to solve a merging conflict ( Vs Code )
+# This text is used for conflict (Browser)
