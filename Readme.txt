@@ -14,3 +14,12 @@ My name is Yousef Samman
          commit them in the local repository.
 
          In this example which is the readme.txt file 
+
+
+# Now Inorder to connect your local repository to the remote one in 
+       github you need to use the link found in github`s repository
+        which is in this example this : 
+                                       https://github.com/AlienBat83/Git-Example-For-Test-.git
+        And you need to use the command 
+
+                  git remote add name_Repo Link  *(The name can be any name )*   
