@@ -36,3 +36,14 @@ My name is Yousef Samman
 
 # This section will be used to solve a merging conflict ( Vs Code )
 # This text is used for conflict (Browser)
+
+
+# The conflict was solved by these Steps 
+   1. You make a change in the remote repository and commit it. 
+    2. You make another change in the local repository and commit it. 
+     3. The conflict : Both changes are not the same. 
+      4. You use the commmand git fetch linkOrRemote_Name Branch_name 
+       5. You use the command git merge linkOrRemote_Name/Branch_name 
+        6. Both changes are now added in the file editor under 2 names *(Current Change (Local) )* *(Incoming Change (Remote) )*
+         7. Choose the changes you want.
+          8. Add the file and commit it. 
