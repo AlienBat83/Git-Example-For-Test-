@@ -23,3 +23,9 @@ My name is Yousef Samman
         And you need to use the command 
 
                   git remote add name_Repo Link  *(The name can be any name )*   
+
+                  Note : You should use the command 
+                                    git branch -m main *( To name the branch you are working in main )*
+
+# Now you can push the files in the remote repository by the command 
+                       git push linkOrRemote_Name  Branch_name 
